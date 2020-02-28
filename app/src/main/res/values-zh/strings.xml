@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade02_etanol</string>
+    <string name="gasolinaText">汽油价格</string>
+    <string name="etanolText">乙醇价格</string>
+    <string name="melhorusar">更好用</string>
+    <string name="recomendationTextEtanol">酒类</string>
+    <string name="recomendationTextGasolina">汽油</string>
+    <string name="imageDescrption">燃料图像</string>
+</resources>

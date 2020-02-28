@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atividade02_etanol</string>
+    <string name="gasolinaText">Preco da Gasolina</string>
+    <string name="etanolText">Preco do Etanol</string>
+    <string name="melhorusar">È Melhor Usar</string>
+    <string name="recomendationTextEtanol">Etanol</string>
+    <string name="recomendationTextGasolina">Gasolina</string>
+    <string name="imageDescrption">Imagem do Combustivel</string>
+</resources>
