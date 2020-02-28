@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade02_etanol</string>
+    <string name="gasolinaText">Gas Price</string>
+    <string name="etanolText">Alcohol Price</string>
+    <string name="melhorusar">Is better use</string>
+    <string name="recomendationTextEtanol">Alcohol</string>
+    <string name="recomendationTextGasolina">Gas</string>
+    <string name="imageDescrption">Gas Image</string>
+</resources>
